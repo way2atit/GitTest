@@ -4,7 +4,7 @@ public class LoginTest {
 	
 	int id;
 	
-	String name;
+	String name;  //serevr
 	public void m1()
 	{
 		System.out.println("call m1");
