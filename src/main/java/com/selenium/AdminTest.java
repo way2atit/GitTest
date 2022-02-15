@@ -8,5 +8,9 @@ public class AdminTest {
 	{
 		System.out.println("call m1");
 	}
+	public void m1()
+	{
+		System.out.println("call m1");
+	}
 
 }
