@@ -4,4 +4,10 @@ public class AdminDetails {
 
 	int id;
 	
+	
+	public void admindetails()
+	{
+		
+	}
+	
 }
